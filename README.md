@@ -2,8 +2,6 @@
 
 This Excel file provides data analysis and visualizations for various aspects of the Bible.
 
-This Google Sheet file provides data analysis and visualizations for various aspects of the Bible.
-
 Data and Analysis
 Data Source: The data used in this analysis is likely sourced from the Bible itself, although the specific version or translation is not mentioned.
 Content:
