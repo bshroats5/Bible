@@ -22,8 +22,6 @@ This analysis can be a helpful tool for studying the Bible and gaining insights 
 It can be used for comparative analysis between different books or groups of books.
 The visualizations can be informative for presentations or educational purposes.
 
-# Notes and Next Steps
-It's unclear if the data includes information about the Old and New Testaments or further book categorizations.
 
 # Additional analysis could involve:
 Including information about authorship, historical context, or genre for each book.
